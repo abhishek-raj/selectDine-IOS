@@ -1,0 +1,6 @@
+framework module Pods_Selectdine_wallet {
+  umbrella header "Pods-Selectdine wallet-umbrella.h"
+
+  export *
+  module * { export * }
+}
